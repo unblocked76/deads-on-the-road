@@ -1,0 +1,23 @@
+{
+  "short_name": "Deads On The Road",
+  "name": "Deads On The Road",
+  "icons": [
+    {
+      "src": "https://img.gamedistribution.com/61e8556801d641cabda403432f8cef18-512x512.jpeg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "https://img.gamedistribution.com/61e8556801d641cabda403432f8cef18-512x512.jpeg",
+      "type": "image/png",
+      "sizes": "144x144",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/61e8556801d641cabda403432f8cef18/index.html",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/61e8556801d641cabda403432f8cef18/",
+  "theme_color": "#3367D6"
+}
